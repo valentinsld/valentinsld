@@ -20,11 +20,3 @@
 <a href="http://www.github.com/valentinsld"><img src="https://github-readme-stats.vercel.app/api?username=valentinsld&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="valentinsld's GitHub stats" /></a>
 
 <a href="https://github.com/valentinsld" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinsld&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/valentinsld/helios" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=valentinsld&repo=helios&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/valentinsld/lelab2021" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=valentinsld&repo=lelab2021&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/valentinsld/memorize-html" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=valentinsld&repo=memorize-html&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/valentinsld/MusicLine" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=valentinsld&repo=MusicLine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
